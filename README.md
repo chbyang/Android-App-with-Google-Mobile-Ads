@@ -1,4 +1,4 @@
-# Android APP
+# Android APP WITH GOOGLE MOBILE ADS
 # Encode and Decode message
 ![Image of APP](https://github.com/chbyang/Android-App-with-Google-Mobile-Ads/blob/master/app_description.jpg)
 # How to use it?
