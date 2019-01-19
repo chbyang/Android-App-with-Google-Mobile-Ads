@@ -1,6 +1,6 @@
 # Android APP
 # Encode and Decode message
-![Image of APP](https://github.com/chbyang/Android-App-with-Google-Mobile-Ads/blob/master/app_description.tif)
+![Image of APP](https://github.com/chbyang/Android-App-with-Google-Mobile-Ads/blob/master/app_description.jpg)
 # How to use it?
 Type an message you want to use in "Message Here!" and click "ENCODE" 
 Send the encoded message (all numbers and #s) to your friend
