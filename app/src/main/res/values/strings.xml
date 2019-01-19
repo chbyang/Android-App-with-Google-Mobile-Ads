@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chaobin\'s app</string>
+    <string name="edit_message">Message Here!</string>
+    <string name="button_send">Encode</string>
+    <string name="output1">encoded message</string>
+    <string name="input1">Enter a message you want to encode:</string>
+    <string name="input2">Enter an encoded message:</string>
+    <string name="button_send2">Decode</string>
+    <string name="edit_message2">Encoded Message Here!</string>
+</resources>
