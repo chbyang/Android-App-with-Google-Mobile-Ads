@@ -1,5 +1,5 @@
 # Android APP WITH GOOGLE MOBILE ADS
-Do you have problem when the person sitting next to you can see preview of your message from lock screen even not on purpose?  
+Do you have problem when the person sitting next to you can unintentionally see preview of your message from lock screen?    
 
 # Encode and Decode message
 ![Image of APP](https://github.com/chbyang/Android-App-with-Google-Mobile-Ads/blob/master/app_description.jpg)
